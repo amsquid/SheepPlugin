@@ -1,0 +1,6 @@
+name: Sheep
+version: '${project.version}'
+main: me.squid.SheepPlugin
+api-version: 1.20
+depend:
+  - Vault
